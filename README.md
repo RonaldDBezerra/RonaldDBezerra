@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou o Ronald Damasio Bezerra 👋
 
 - 🌱 Estou estudando desenvolvimento web FullStack ...
-<div align="center">
+<div align="center" style="inline-block">
   <a href="https://github.com/RonaldDBezerra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldDBezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDBezerra&layout=compact&langs_count=7&theme=dracula"/>
