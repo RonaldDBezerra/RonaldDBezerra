@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou o Ronald Damasio Bezerra 👋
 
-- 🌱 desenvolvedor web FullStack!
+- 🌱 Desenvolvedor Web FullStack!
 <div align="center" style="inline-block">
   <a href="https://github.com/RonaldDBezerra">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RonaldDBezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
