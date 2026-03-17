@@ -1,20 +1,34 @@
-### 👋 Olá! Eu sou o Ronald Damasio
+<h1 align="center">
+  Olá, eu sou o Ronald Damasio 👋
+</h1>
 
-💻 Desenvolvedor Full Stack focado em criar aplicações web e mobile modernas, performáticas e escaláveis.
-
-🚀 Trabalho principalmente com:
-- Front-end: React, Next.js, React Native
-- Back-end: Node.js, NestJS
-- Linguagens: JavaScript, TypeScript
-
-🎯 Tenho experiência em:
-- Construção de interfaces modernas e responsivas
-- Integração com APIs e serviços externos
-- Desenvolvimento de aplicações completas (front + back)
-
-📈 Sempre evoluindo e buscando criar soluções cada vez mais eficientes.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+Node.js;Construindo+aplicações+modernas;Sempre+evoluindo+🚀" />
+</p>
 
 ---
+
+## 🚀 Sobre mim
+
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em soluções reais.
+
+🎯 Focado em desenvolvimento de aplicações **web e mobile**, com atenção em performance, escalabilidade e boas práticas.
+
+📈 Sempre evoluindo e buscando criar sistemas cada vez mais completos.
+
+---
+
+## 🧠 Stack principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,mongodb,mysql,docker" />
+
+</div>
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/RonaldDBezerra">
@@ -24,25 +38,21 @@
 
 ---
 
-### 🛠️ Tecnologias
+## 🚀 Projetos em destaque
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
+🔹 Em breve...
+
+<!-- Quando terminar seus projetos, substitui aqui -->
+<!--
+- 🎧 Poco Tunes → link
+- 🚀 Projeto novo → link
+-->
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/ronalddamasio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
@@ -50,3 +60,9 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+---
+
+<p align="center">
+  💡 "Transformando ideias em código e código em soluções."
+</p>
