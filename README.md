@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+Node.js;Construindo+aplicações+modernas;Sempre+evoluindo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+React-Native+%7C+Node.js;Construindo+aplicações+modernas;Sempre+evoluindo+🚀" />
 </p>
 
 ---
