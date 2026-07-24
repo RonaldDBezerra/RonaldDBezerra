@@ -42,13 +42,47 @@
 
 ## 🚀 Projetos em destaque
 
+🧠 Tutor Platform (AI Engineering)
+
+Plataforma completa para criação de assistentes inteligentes baseados em LLMs, permitindo conectar diferentes fontes de conhecimento e conversar com um agente de IA utilizando arquitetura RAG. O projeto foi desenvolvido utilizando FastAPI, LangChain, LangGraph e PostgreSQL, com foco em escalabilidade, observabilidade e integração de modelos de linguagem.
+
+🔗 Backend
+https://github.com/RonaldDBezerra/tutor-plataform
+
+Tecnologias:
+
+- Python
+- FastAPI
+- LangChain
+- LangGraph
+- OpenAI
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Docker
+
+Principais funcionalidades:
+
+- Agentes baseados em LLM
+- Arquitetura RAG
+- Múltiplas fontes de conhecimento
+- Histórico de conversas
+- CRUD de Assistentes
+- CRUD de Bases de Conhecimento
+- Streaming de respostas
+- Observabilidade com LangSmith
+- API REST documentada (Swagger)
+- Interface web para gerenciamento
+
 🎬 CinePulse
 
-App mobile para descoberta e acompanhamento de filmes e séries, com dados em tempo real via TMDB API. Publicado na Google Play Store.
+App mobile para descoberta e acompanhamento de filmes e séries utilizando a TMDB API.
 
-🔗 Repositório: https://github.com/RonaldDBezerra/cinePulse_app
+🔗 Repositório
+https://github.com/RonaldDBezerra/cinePulse_app
 
-📱 Play Store: https://play.google.com/store/apps/details?id=com.ronalddev.cinepulse
+📱 Google Play
+https://play.google.com/store/apps/details?id=com.ronalddev.cinepulse
 
 Tecnologias:
 
@@ -56,20 +90,21 @@ Tecnologias:
 - Expo
 - TypeScript
 - Context API
-- TMDB API (REST)
+- TMDB API
 
 Funcionalidades:
 
 - Busca de filmes e séries
-- Listagem de tendências e lançamentos
-- Visualização de detalhes completos (sinopse, elenco, avaliação)
-- Integração com TMDB para dados atualizados em tempo real
-
+- Tendências e lançamentos
+- Informações completas sobre títulos
+- Integração em tempo real com a TMDB API
+  
 🤖 CinePulse AI API
 
-Backend de IA Generativa que complementa o app CinePulse, oferecendo uma experiência conversacional para recomendações de filmes e séries. Conta com um agente desenvolvido em LangGraph que interpreta as solicitações do usuário e realiza tool-calling para buscar dados em tempo real na TMDB API e gerar respostas com a OpenAI. A API foi construída com FastAPI, com autenticação via Firebase e observabilidade do agente através do LangSmith.
+Backend de IA Generativa responsável pelas recomendações inteligentes do CinePulse. O agente utiliza LangGraph para interpretar solicitações do usuário, realizar tool calling na TMDB API e gerar respostas utilizando modelos da OpenAI.
 
-🔗 Repositório: https://github.com/RonaldDBezerra/chat-cinepulse-ai-api
+🔗 Repositório
+https://github.com/RonaldDBezerra/chat-cinepulse-ai-api
 
 ---
 
